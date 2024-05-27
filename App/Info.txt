@@ -1,0 +1,2 @@
+Caricare il codice dell'app
+Modificare l'application Id della proppria app it.issgreppi.CognomeNome.aliceneural

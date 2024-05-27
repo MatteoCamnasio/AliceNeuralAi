@@ -1,0 +1,1 @@
+Caricare il file json del modello creato con cui è stato realizzato il training 
